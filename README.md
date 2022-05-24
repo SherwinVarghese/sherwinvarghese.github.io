@@ -1,7 +1,7 @@
 # sherwinvarghese.github.io
 
 
-![WebSite](front-page.png)
+![WebSite](../website/front-page.png)
 
 Visit [here](https://sherwinvarghese.github.io)
 
